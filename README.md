@@ -1,2 +1,2 @@
 # ITS-Python-Exam-files
-Python files used for ITS Python exam.
+This folder contains the documentation and code samples related to IT Specialist in Python certification (ITS-303).
